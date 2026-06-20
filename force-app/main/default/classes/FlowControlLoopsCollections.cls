@@ -18,7 +18,7 @@
 */
 
 public with sharing class FlowControlLoopsCollections {
-    
+
     /**
      * Question 1
      * Compares two numbers and return "Hello World!" if x is greater than the y.
@@ -167,7 +167,7 @@ public with sharing class FlowControlLoopsCollections {
     /**
      * Question 10
      * Generate a string where the input string is repeated the given number of times, with each
-	 * repetition separated by a semicolon. 
+	 * repetition separated by a semicolon.
      * Do not add a semicolon after the last repetition.
 	 * Example: repeatString("Hello World!", 3) should return "Hello World!; Hello World!; Hello World!"
      * @param inputString The string to be repeated.
@@ -230,7 +230,7 @@ public with sharing class FlowControlLoopsCollections {
     /**
      * Question 13
      * Create a list filled with integers based on the input parameter.
-     * Example: createIntegerList(5) should return [1, 2, 3, 4, 5] 
+     * Example: createIntegerList(5) should return [1, 2, 3, 4, 5]
      * @param n The last integer in the List.
      * @return A List of integers from 1 to 'n'.
      */
